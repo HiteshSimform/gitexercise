@@ -1,2 +1,3 @@
 testfile1
 perform squash, reset, rebase and cherrypick ​​​​​​​
+commit 3
